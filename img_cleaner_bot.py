@@ -13,7 +13,7 @@ from PIL import Image, ImageEnhance
 from telegram import Update
 from telegram.ext import ApplicationBuilder, MessageHandler, CommandHandler, filters, ContextTypes
 
-TOKEN = os.environ.get("TELEGRAM_TOKEN", "8979975887:AAH2I1DesaVH5zhvjGGfWn7WNYpC1oAdpPI")
+TOKEN = os.environ.get("TELEGRAM_TOKEN", "TON_TOKEN_ICI")
 
 logging.basicConfig(level=logging.INFO)
 
